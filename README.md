@@ -15,7 +15,7 @@ These mods do varying things such as making the player hitboxes bigger, being ab
 
 ### 🛠 **How to install**  
 1. Download the mod [from the releases page](https://github.com/iiDk-the-actual/GunRaidersCheats/releases/latest)
-2. Remove the last bit of text from the end of the mod (example, remove `_FLY` from `main.509.com.gunraiders.obb_FLY`)
+2. Remove the last bit of text from the end of the mod (example, remove `_FLY` from `main.509.com.gunraiders_FLY.obb`)
 3. Open SideQuest and pair your headset
 4. Navigate to `sdcard\Android\obb\com.gunraiders`
 5. Delete the existing `.obb` file
