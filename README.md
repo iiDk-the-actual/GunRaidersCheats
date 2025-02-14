@@ -34,4 +34,4 @@ A: There is no source code, as this is a long process done manually rather than 
 
 ---
 
-Have fun, and stay safe! <#
+Have fun, and stay safe! <3
