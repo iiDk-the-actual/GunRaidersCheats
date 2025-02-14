@@ -25,6 +25,9 @@ A: Yeah, but don’t be surprised if you get reported.
 **Q: Will this break my game?**  
 A: Probably not, but if it does, just reinstall Gun Raiders.  
 
+**Q: Where is the source code?**
+A: There is no source code, as this is a long process done manually rather than using any code. If you would like a tutorial into making these mods, you may watch the video provided in the repository.
+
 ---
 
 Have fun, and stay safe! <#
