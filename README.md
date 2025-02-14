@@ -4,9 +4,9 @@
 These mods do varying things such as making the player hitboxes bigger, being able to fly, and killing everyone instantly at the flick of your knife!
 
 ### 🎮 **How does it work?**  
-- Makes hitboxes **way** bigger than normal.  
-- Works in all game modes (unless patched).
-- Super funny to mess with people.
+- These mods modify in-game objects contained inside of the `.obb` data.
+- The `.obb` file contains all of the game's **textures, sounds, and objects**.
+- When the `.obb` file is modified, the game's objects are modified too!
 
 ### ⚠️ **Warnings!** 
 - Might get you banned if you use it in public lobbies.  
