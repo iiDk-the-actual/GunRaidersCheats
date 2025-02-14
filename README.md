@@ -6,7 +6,7 @@ These mods do varying things such as making the player hitboxes bigger, being ab
 ### 🎮 **How does it work?**  
 - Makes hitboxes **way** bigger than normal.  
 - Works in all game modes (unless patched).
-- Super funny in close-range fights.
+- Super funny to mess with people.
 
 ### ⚠️ **Warnings!** 
 - Might get you banned if you use it in public lobbies.  
