@@ -14,9 +14,13 @@ This mod makes player hitboxes way bigger, so it's easier to hit people. If you'
 - Use at your own risk! 
 
 ### 🛠 **How to install**  
-1. Get the mod file (wherever you found it).  
-2. Put it in the right folder for Gun Raiders mods.  
-3. Launch the game and have fun!  
+1. Download the mod [from the releases page](https://github.com/iiDk-the-actual/GunRaidersCheats/releases/latest)
+2. Remove the last bit of text from the end of the mod (example, remove `_FLY` from `main.509.com.gunraiders.obb_FLY`)
+3. Open SideQuest and pair your headset
+4. Navigate to `sdcard\Android\obb\com.gunraiders`
+5. Delete the existing `.obb` file
+6. Drag and drop the recently downloaded mod
+7. Enjoy your cheats!
 
 ### ❓ **FAQ**  
 **Q: Can I use this online?**  
@@ -26,7 +30,7 @@ A: Yeah, but don’t be surprised if you get reported.
 A: Probably not, but if it does, just reinstall Gun Raiders.  
 
 **Q: Where is the source code?**
-A: There is no source code, as this is a long process done manually rather than using any code. If you would like a tutorial into making these mods, you may watch the video provided in the repository.
+A: There is no source code, as this is a long process done manually rather than using any code. If you would like a tutorial into making these mods, you may watch this video: https://files.catbox.moe/60gsd5.mp4
 
 ---
 
