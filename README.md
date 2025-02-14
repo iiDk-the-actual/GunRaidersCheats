@@ -1,7 +1,7 @@
 # Gun Raiders Cheats
 
 ### 📌 **What is this cheat?**  
-This mod makes player hitboxes way bigger, so it's easier to hit people. If you're tired of missing shots or just wanna mess around, this mod is for you. This mod also lets you fly, depending if you feel like it. 
+These mods do varying things such as making the player hitboxes bigger, being able to fly, and killing everyone instantly at the flick of your knife!
 
 ### 🎮 **How does it work?**  
 - Makes hitboxes **way** bigger than normal.  
